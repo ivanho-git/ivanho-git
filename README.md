@@ -27,6 +27,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=plotly&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E86C1?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Turtle](https://img.shields.io/badge/Turtle-3776AB?logo=python&logoColor=white)
 
 ---
 
