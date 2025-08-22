@@ -42,7 +42,10 @@
 </p>
 
 ---
+## 📬 Connect with me
 
+
+- **Email:**(mailto:Ibhaanm29@gmail.com)
 
 
 ---
