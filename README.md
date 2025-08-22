@@ -37,13 +37,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanho-git&theme=radical" height="180" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YOUR_USERNAME/ivanho-git/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
