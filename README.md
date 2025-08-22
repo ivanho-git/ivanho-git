@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there Techies👋
 
 <!-- Typing effect header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I'm+Ibhan;CSE+Core+Student+@+VIT+Chennai;Machine+Learning+%7C+Quantum+Computing+Enthusiast;Aspiring+Researcher+%26+Innovator)](https://git.io/typing-svg)
@@ -42,7 +42,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ivanho-git&color=blue&style=flat)
+
 
 ---
 
