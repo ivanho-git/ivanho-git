@@ -45,7 +45,10 @@
 ## 📬 Connect with me
 
 
-- **Email:**(mailto:Ibhaanm29@gmail.com)
+-## 📬 Connect with me
+
+
+- **Email:** [Ibhaanm29@gmail.com](mailto:Ibhaanm29@gmail.com)
 
 
 ---
