@@ -42,8 +42,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/ivanho-git/ivanho-git/blob/output/snake.gif)
+![Profile Views](https://komarev.com/ghpvc/?username=ivanho-git&color=blue&style=flat)
 
 ---
 
