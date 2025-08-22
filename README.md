@@ -43,7 +43,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/ivanho-git/ivanho-git/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ivanho-git/ivanho-git/blob/output/snake.svg)
 
 ---
 
