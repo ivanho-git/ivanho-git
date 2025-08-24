@@ -1,7 +1,7 @@
 ## Hey there Techies👋
 
 <!-- Typing effect header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&lines=Hi+there+👋,+I'm+Ibhan;💻+CSE+Core+Student+@+VIT+Chennai;🤖+Machine+Learning+%7C+Quantum+Computing+Enthusiast;🚀+Aspiring+Researcher+%26+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=FF0080&background=00000000&center=true&vCenter=true&multiline=true&width=1200&lines=✨+Hey+there!+I'm+Ibhan+👋;💻+CSE+Core+Student+@+VIT+Chennai;🤖+Machine+Learning+%26+Quantum+Computing+Enthusiast;🌌+Aspiring+Researcher;🚀+Open+Source+%7C+GSoC+%7C+Innovation+Driven)](https://git.io/typing-svg)
 
 
 ---
