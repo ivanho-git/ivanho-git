@@ -1,61 +1,38 @@
-## Hey there Techies👋
+<h1 align="center">Hi 👋, I'm Ibhan Mukherjee</h1>
+<h3 align="center">AI ML developer</h3>
 
-<!-- Typing effect header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&lines=Hi+there+👋,+I'm+Ibhan;💻+CSE+Core+Student+@+VIT+Chennai;🤖+Machine+Learning+%7C+Quantum+Computing+Enthusiast;🚀+Aspiring+Researcher+%26+Innovator)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanho-git&label=Profile%20views&color=0e75b6&style=flat" alt="ivanho-git" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanho-git" alt="ivanho-git" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/ibhanthebongvl1" target="blank"><img src="https://img.shields.io/twitter/follow/ibhanthebongvl1?logo=twitter&style=for-the-badge" alt="ibhanthebongvl1" /></a> </p>
 
-## 🌌 About Me
-🔭 Currently studying **Computer Science (Core)** at **VIT Chennai**  
-💡 Interested in **Machine Learning, Data Science, and Quantum Computing**  
-📚 Love exploring **mechanics & the intersection of physics with computation**  
-🌍 Goal: *Use my skills to contribute to the world of science and make a difference*  
+- 🔭 I’m currently working on *Sentiment analysis Project*
 
----
+- 🌱 I’m currently learning *Java,Javascript*
 
-## ⚡ Tech Stack
-**Languages**  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
+- 👨‍💻 All of my projects are available at [https://github.com/ivanho-git?tab=repositories](https://github.com/ivanho-git?tab=repositories)
 
-**Libraries & Tools**  
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=plotly&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E86C1?logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![Turtle](https://img.shields.io/badge/Turtle-3776AB?logo=python&logoColor=white)
+- 📫 How to reach me *Ibhaanm29@gmail.com*
 
----
+- ⚡ Fun fact *My Curiosity Never Ends*
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanho-git&layout=compact&theme=radical" height="180" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ibhanthebongvl1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibhanthebongvl1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibhan mukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibhan mukherjee" height="30" width="40" /></a>
+<a href="https://kaggle.com/ibhanmukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ibhanmukherjee" height="30" width="40" /></a>
+<a href="https://instagram.com/ww.ibhanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ww.ibhanm" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanho-git&theme=radical" height="180" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
----
-## 📬 Connect with me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanho-git&show_icons=true&locale=en&layout=compact" alt="ivanho-git" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&locale=en" alt="ivanho-git" /></p>
 
--## 📬 Connect with me
-
-
-- **Email:** [Ibhaanm29@gmail.com](mailto:Ibhaanm29@gmail.com)
-
-
----
-
-## ✨ Quote
-> *“The important thing is not to stop questioning. Curiosity has its own reason for existing.”* – Albert Einstein
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanho-git&" alt="ivanho-git" /></p>
 <!--
 **ivanho-git/ivanho-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
