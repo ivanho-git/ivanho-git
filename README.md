@@ -34,24 +34,26 @@
 
 
 
-## 📊 GitHub Stats
+## 📊 My Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanho-git&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ivanho-git&theme=github-dark-blue&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ivanho-git&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/ivanho-git?theme=dark&border=1&radius=10" height="250"/>
 </p>
 
-<img src="https://leetcard.jacoblin.cool/ivanho-git?border=1&radius=5" alt="Leetcode Stats">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ivanho-git&no-bg=true" />
 
 
 ---
