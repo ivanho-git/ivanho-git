@@ -23,17 +23,6 @@
 ---
 
 
-<div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h1></h1>
-    </summary>
-    <summary>
-      <h1> 👋 Hi, I'm Subhayan!</h1>
-    </summary>
-     <summary>
-      <h1></h1>
-    </summary>
 
 
   </ul>
@@ -45,7 +34,7 @@
 
 
 ## 📈 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hello-lab?cardType=level&theme=github-dark&preferLogin=false&Border=DDDDDD&Title=91A3DD&Ring=77DDAB)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ivanho-git?cardType=level&theme=github-dark&preferLogin=false&Border=DDDDDD&Title=91A3DD&Ring=77DDAB)](https://git.io/awesome-stats-card)
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hello-lab&border_radius=5&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
@@ -53,7 +42,7 @@
 
  
 
-  <img src="https://github-profile-trophy.vercel.app/?username=hello-lab&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ivanho-git&no-bg=true" />
 
 
 
