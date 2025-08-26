@@ -33,16 +33,16 @@
 
 
 
+
 ## 📈 GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ivanho-git?cardType=level&theme=github-dark&preferLogin=false&Border=DDDDDD&Title=91A3DD&Ring=77DDAB)](https://git.io/awesome-stats-card)
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ivanho-git&border_radius=5&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hello-lab&border_radius=5&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
-  <img src="https://leetcard.jacoblin.cool/ezio2023?border=1&radius=5" alt="Leetcode Stats">
+<img src="https://leetcard.jacoblin.cool/ivanho-git?border=1&radius=5" alt="Leetcode Stats">
 
- 
+<img src="https://github-profile-trophy.vercel.app/?username=ivanho-git&no-bg=true" />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ivanho-git&no-bg=true" />
 
 
 
