@@ -34,14 +34,20 @@
 
 
 
-## 📈 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ivanho-git?cardType=level&theme=github-dark&preferLogin=false&Border=DDDDDD&Title=91A3DD&Ring=77DDAB)](https://git.io/awesome-stats-card)
+## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ivanho-git&border_radius=5&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanho-git&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
 
-<img src="https://leetcard.jacoblin.cool/ivanho-git?border=1&radius=5" alt="Leetcode Stats">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ivanho-git&theme=github-dark-blue&hide_border=true" height="180"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ivanho-git&no-bg=true" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ivanho-git&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
 
 
