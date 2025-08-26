@@ -49,7 +49,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ivanho-git&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
+<img src="https://leetcard.jacoblin.cool/ivanho-git?border=1&radius=5" alt="Leetcode Stats">
 
+<img src="https://github-profile-trophy.vercel.app/?username=ivanho-git&no-bg=true" />
 
 
 ---
