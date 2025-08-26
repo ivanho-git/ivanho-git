@@ -22,16 +22,38 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanho-git&layout=compact&theme=radical" height="180" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanho-git&theme=radical" height="180" />
-</p>
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1></h1>
+    </summary>
+    <summary>
+      <h1> 👋 Hi, I'm Subhayan!</h1>
+    </summary>
+     <summary>
+      <h1></h1>
+    </summary>
 
+
+  </ul>
+</div>
+
+
+
+
+
+
+## 📈 GitHub Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hello-lab?cardType=level&theme=github-dark&preferLogin=false&Border=DDDDDD&Title=91A3DD&Ring=77DDAB)](https://git.io/awesome-stats-card)
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hello-lab&border_radius=5&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+  <img src="https://leetcard.jacoblin.cool/ezio2023?border=1&radius=5" alt="Leetcode Stats">
+
+ 
+
+  <img src="https://github-profile-trophy.vercel.app/?username=hello-lab&no-bg=true" />
 
 
 
