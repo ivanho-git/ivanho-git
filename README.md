@@ -1,63 +1,62 @@
-# 👋 Hey there, Techies!
+<div align="center">
 
-<!-- Typing SVG Header -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Ibhan+Mukherjee;CSE+Core+Student+@+VIT+Chennai;Machine+Learning+%7C+Quantum+Computing;Aspiring+Researcher+%26+Open+Source+Contributor" />
-  </a>
-</p>
+# 👋 Hi, I'm **Ibhan Mukherjee**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&width=900&lines=CSE+Core+Student+%40+VIT+Chennai;Machine+Learning+%7C+Data+Science;Quantum+Computing+Enthusiast;Open+Source+%7C+GSoC+%7C+Research)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🌌 About Me
+## 🚀 About Me
 
 - 🎓 **Computer Science (Core)** @ **VIT Chennai**
 - 🤖 Interested in **Machine Learning, Data Science & Quantum Computing**
-- 🧠 Love the intersection of **Physics + Computation**
-- 🌍 Goal: Contribute to **open science, research & impactful technology**
+- 🧠 Love the intersection of **Physics and Computation**
+- 🌍 Aspiring **researcher & open-source contributor**
 - 🚀 Targeting **GSoC, research internships & global labs**
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-</p>
+**Languages:** Python, C, C++, JavaScript  
+**Frameworks / Libraries:** React, Node.js, Scikit-learn, OpenCV  
+**Tools:** Git, GitHub, Docker, VS Code, MySQL  
 
 ---
 
-## 📊 GitHub Activity & Stats  
-*(No backend • No Vercel • Fully GitHub-safe)*
+## 📊 GitHub Stats (Backend Powered)
 
-### 📈 Contribution Activity
+### 🧠 Developer Level & Overall Stats
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ivanho-git?cardType=level&theme=github-dark&Border=DDDDDD&Title=FF0080&Ring=FF0080" />
+</p>
+
+> 🔹 Includes **commit count, PRs, issues, stars, contributions**  
+> 🔹 Grade (A/B/C) is **computed server-side**
+
+---
+
+### 📈 Contribution Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanho-git&bg_color=0D1117&color=FF0080&line=FF0080&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 Achievements & Consistency
+### 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ivanho-git&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 📌 GitHub Profile Overview (Valid Badges)
+### 📌 GitHub Profile Overview
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ivanho-git?style=for-the-badge&color=FF0080"/>
-  <img src="https://img.shields.io/github/repos/ivanho-git?style=for-the-badge&color=FF0080"/>
-  <img src="https://img.shields.io/github/last-commit/ivanho-git?style=for-the-badge&color=FF0080"/>
+  <img src="https://img.shields.io/github/followers/ivanho-git?style=for-the-badge&color=FF0080" />
+  <img src="https://img.shields.io/github/repos/ivanho-git?style=for-the-badge&color=FF0080" />
+  <img src="https://img.shields.io/github/last-commit/ivanho-git?style=for-the-badge&color=FF0080" />
 </p>
 
 ---
