@@ -38,21 +38,27 @@
 
 ## 📊 My Coding Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=FF0080&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanho-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivanho-git&theme=radical&hide_border=true&background=0D1117&ring=FF0080&fire=FF0080&currStreakLabel=FF0080)
-
-</div>
+<!-- GitHub Contribution Graph -->
 <p align="center">
-  <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/ivanho-git?theme=dark&border=1&radius=10" height="250"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanho-git&bg_color=0D1117&color=FF0080&line=FF0080&point=FFFFFF&hide_border=true" />
 </p>
 
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ivanho-git&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
+<!-- Static GitHub Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ivanho-git?style=for-the-badge&color=FF0080" />
+  <img src="https://img.shields.io/github/stars/ivanho-git?style=for-the-badge&color=FF0080" />
+  <img src="https://img.shields.io/github/last-commit/ivanho-git?style=for-the-badge&color=FF0080" />
+</p>
+
+<!-- LeetCode Stats -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ivanho-git?theme=dark&border=1&radius=10" height="250"/>
+</p>
 
 ---
 
