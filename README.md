@@ -45,18 +45,8 @@
 
 ## 📊 GitHub Stats (Overview)
 
-<p align="center">
-  <img
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/ivanho-git
-    ?cardType=level
-    &theme=github-dark
-    &Border=DDDDDD
-    &Title=FF0080
-    &Ring=FF0080
-    &Text=FFFFFF"
-    alt="GitHub Stats"
-  />
-</p>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/ivanho-git?v=2" />
+
 
 ---
 
