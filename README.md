@@ -36,8 +36,6 @@
 ---
 
 ## 📊 My Coding Stats
-
-### 🧠 Developer Grade & Overall GitHub Stats (Backend Powered)
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ivanho-git?cardType=level&theme=github-dark&Border=DDDDDD&Title=FF0080&Ring=FF0080" />
 </p>
@@ -52,9 +50,11 @@
 ---
 
 ### 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ivanho-git&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-gamma.vercel.app/?username=ivanho-git&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
 
 ---
 
