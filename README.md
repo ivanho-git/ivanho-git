@@ -43,12 +43,20 @@
   <img src="https://img.shields.io/github/last-commit/ivanho-git?style=for-the-badge" />
 </p>
 
-## 📊 GitHub Metrics (Verified & Real)
+## 📊 GitHub Stats (Overview)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ivanho-git/ivanho-git/main/github-metrics.svg" />
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/ivanho-git
+    ?cardType=level
+    &theme=github-dark
+    &Border=DDDDDD
+    &Title=FF0080
+    &Ring=FF0080
+    &Text=FFFFFF"
+    alt="GitHub Stats"
+  />
 </p>
-
 
 ---
 
