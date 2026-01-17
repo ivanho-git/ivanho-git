@@ -48,6 +48,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ivanho-git&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanho-git&bg_color=0D1117&color=00E6A8&line=00E6A8&point=FFFFFF&hide_border=true" />
+</p>
+
 <!-- Static GitHub Badges -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/ivanho-git?style=for-the-badge&color=FF0080" />
