@@ -35,11 +35,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview (Verified)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=FF0080&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://img.shields.io/github/followers/ivanho-git?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/ivanho-git?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/ivanho-git?style=for-the-badge" />
 </p>
+
 
 
 ---
