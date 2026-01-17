@@ -35,10 +35,12 @@
 
 ---
 
-## 📊 My Coding Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ivanho-git?cardType=level&theme=github-dark&Border=DDDDDD&Title=FF0080&Ring=FF0080" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=FF0080&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
+
 
 ---
 
