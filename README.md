@@ -34,21 +34,19 @@
 
 
 
+
+
 ## 📊 My Coding Stats
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+<div align="center">
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanho-git&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=FF0080&text_color=FFFFFF)
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ivanho-git&theme=github-dark-blue&hide_border=true" height="180"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanho-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=FFFFFF)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivanho-git&theme=radical&hide_border=true&background=0D1117&ring=FF0080&fire=FF0080&currStreakLabel=FF0080)
+
+</div>
 <p align="center">
   <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/ivanho-git?theme=dark&border=1&radius=10" height="250"/>
