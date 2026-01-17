@@ -1,5 +1,8 @@
 name: GitHub Metrics
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
   schedule:
@@ -8,6 +11,7 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
