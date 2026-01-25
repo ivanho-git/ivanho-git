@@ -47,7 +47,7 @@
 
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ivanho-git?v=2" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pandeydevangshu12&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanho-git2&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 
