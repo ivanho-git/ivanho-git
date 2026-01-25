@@ -46,6 +46,9 @@
 ## 📊 GitHub Stats (Overview)
 
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ivanho-git?v=2" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pandeydevangshu12&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
 
 
 ---
@@ -54,9 +57,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanho-git&bg_color=0D1117&color=FF0080&line=FF0080&point=FFFFFF&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+
 
 ---
 
