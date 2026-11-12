@@ -1,94 +1,146 @@
 <div align="center">
 
-# Ibhan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=230&section=header&text=Ibhan%20Mukherjee&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Building%20where%20AI%20meets%20hardware%20meets%20the%20web&descSize=18&descAlignY=60&animation=fadeIn" alt="Ibhan Mukherjee" />
 
-**Computer Science undergraduate · Machine Learning, Embedded Systems & Web Development**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Training+models+on+real+data;Making+hardware+talk;Building+interfaces+people+remember;Always+working+on+Julia" alt="Animated introduction" />
 
-First-year B.Tech CSE at VIT Chennai, building end-to-end systems from model to hardware to interface.
+<br />
 
-[![Email](https://img.shields.io/badge/Email-Ibhaanm29%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Ibhaanm29@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%40ibhanthebongvl1-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ibhanthebongvl1)
-[![Instagram](https://img.shields.io/badge/Instagram-%40ww.ibhanm-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ww.ibhanm)
+<a href="mailto:Ibhaanm29@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://twitter.com/ibhanthebongvl1"><img src="https://img.shields.io/badge/X-FOLLOW%20ALONG-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://instagram.com/ww.ibhanm"><img src="https://img.shields.io/badge/INSTAGRAM-WW.IBHANM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/B.Tech%20CSE-VIT%20Chennai-7C3AED?style=flat-square" alt="B.Tech CSE at VIT Chennai" />
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning-2563EB?style=flat-square" alt="Machine learning" />
+<img src="https://img.shields.io/badge/Also-Embedded%20Systems-0891B2?style=flat-square" alt="Embedded systems" />
+<img src="https://img.shields.io/badge/And-Web%20Experiences-DB2777?style=flat-square" alt="Web development" />
+
+</div>
+
+<br />
+
+## Hey, I'm Ibhan 👋
+
+I'm a Computer Science undergraduate at **VIT Chennai**. I like building the complete thing: from messy scientific data and learning systems to microcontrollers, cloud infrastructure, and the interface at the other end.
+
+Right now, I'm especially interested in **adaptive learning**, **edge AI**, and systems that stay useful outside a demo.
+
+```text
+data → model → hardware → interface → something real
+```
+
+---
+
+## ⚡ Featured builds
+
+### ☀️ HelioShield — forecasting solar flares
+
+> Can we turn solar magnetogram data into an early warning signal?
+
+Built for an **ISRO Hackathon** using real **SDO/HMI SHARP** data. I developed the forecasting pipeline, diagrams, and presentation. A Random Forest classifier reached **0.97 AUC** and **0.71 TSS** on a held-out backtest.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Space Weather](https://img.shields.io/badge/Space%20Weather-4F46E5?style=flat-square)
+
+### 🧠 Julia — a system that keeps learning
+
+> My longest-running experiment, and the one that keeps raising new questions.
+
+A **512-node reservoir computing system** with Hebbian consolidation and live sensory input channels. I built it from scratch without fine-tuning existing model weights. It runs continuously on **Oracle Cloud ARM** and includes a custom conversational interface.
+
+I'm currently investigating **developmental stagnation** in its learning behavior.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Reservoir Computing](https://img.shields.io/badge/Reservoir%20Computing-7C3AED?style=flat-square)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Ongoing%20Research-16A34A?style=flat-square)
+
+### 🌱 AGRI-SENTINEL — precision farming robot
+
+> Sensors, pumps, three controllers, and a lot of debugging.
+
+An **ESP32** coordinates two **Arduino** boards that drive peristaltic pumps and soil sensors, with telemetry over **MQTT / HiveMQ**. I worked through watchdog resets and UART handshake failures to get the hardware communicating reliably.
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+
+### ✦ CSI-VIT Chennai website — built to move
+
+> A club website with a little more personality than a template.
+
+A cinematic, scroll-driven site with **GSAP ScrollTrigger**, dithered backgrounds, 3D tilt cards, and a terminal-style AI chat interface. Built with vanilla JavaScript and no build tooling.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=gsap&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<details>
+<summary><b>🗂️ More projects</b></summary>
+<br />
+
+- **SpeechSense AI · Samsung AX** — Edge keyword spotting using ECAPA-TDNN and INT8-quantized ONNX models.
+- **Landroid · Birdscale Hackathon** — A land-intelligence mobile app built with React Native and Firebase.
+
+</details>
+
+---
+
+## 🧰 Things I build with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,arduino,opencv,firebase,figma,git&theme=dark&perline=11" alt="Python, C++, C, JavaScript, HTML, CSS, Arduino, OpenCV, Firebase, Figma, and Git" />
+
+<br /><br />
+
+`scikit-learn` · `ONNX` · `ESP32` · `MQTT` · `UART` · `React Native` · `GSAP` · `Oracle Cloud`
 
 </div>
 
 ---
 
-## About
+## 📈 GitHub pulse
 
-I am a computer science student interested in machine learning, embedded systems and the engineering that connects them. My work ranges from forecasting models trained on real scientific data to IoT hardware and web interfaces.
+<div align="center">
 
-My longest-running project is **Julia**, a reservoir computing system I designed and have kept running continuously on cloud infrastructure. It is my testbed for questions about adaptive learning and long-term system behavior.
+<img src="https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=E5E7EB" height="165" alt="Ibhan's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanho-git&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" height="165" alt="Ibhan's top repository languages" />
 
----
+<br /><br />
 
-## Featured Projects
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ivanho-git&bg_color=0D1117&color=E5E7EB&line=38BDF8&point=A78BFA&area=true&area_color=2563EB&hide_border=true" alt="Ibhan's GitHub activity graph" />
 
-### HelioShield: Solar Flare Forecasting
-*ISRO Hackathon*
+</div>
 
-A space weather forecasting pipeline built on real SDO/HMI SHARP magnetogram data. A Random Forest classifier reached **AUC 0.97** and **TSS 0.71** on a held-out backtest. I built the full pipeline, the system diagrams and the presentation.
+<details>
+<summary><b>🌍 A little beyond code</b></summary>
+<br />
 
-`Python` `scikit-learn` `Data Pipelines`
+- Co-authoring a research paper with **Dr. Malini A**.
+- Active in **CSI-VIT Chennai**; volunteered at Glytchh Hackathon and the OSPC Hostel Club Expo.
+- Represented the **United Kingdom** at VITC Intra-MUN 2025.
+- Speak **English, Hindi, and Bengali**; learning **French**.
 
-### Julia: Reservoir Computing System
-*Ongoing personal research project*
-
-A 512-node reservoir computing system with Hebbian consolidation and live sensory input channels, built from scratch and not fine-tuned from existing model weights. It runs continuously on Oracle Cloud ARM infrastructure. Current work focuses on diagnosing and addressing developmental stagnation in its learning behavior. It includes a custom conversational interface for interacting with the system.
-
-`Python` `Reservoir Computing` `Hebbian Learning` `Oracle Cloud`
-
-### AGRI-SENTINEL: Precision Farming Robot
-An IoT robot in which an ESP32 controller coordinates two Arduino slave boards driving peristaltic pumps and soil sensors, with telemetry over MQTT (HiveMQ). Debugging covered watchdog resets and UART handshake failures.
-
-`ESP32` `Arduino` `C++` `MQTT` `UART`
-
-### CSI-VIT Chennai Website
-A cinematic scroll-driven site with GSAP ScrollTrigger animations, dithered backgrounds and 3D tilt cards, plus a terminal-style AI chat interface. Built in vanilla JavaScript with no build tooling.
-
-`JavaScript` `GSAP` `HTML/CSS`
-
-### Additional Work
-- **SpeechSense AI** (Samsung AX): edge keyword spotting using ECAPA-TDNN with INT8-quantized ONNX models
-- **Landroid** (Birdscale Hackathon): land-intelligence mobile app built with React Native and Firebase
+</details>
 
 ---
 
-## Research & Leadership
+<div align="center">
 
-- **Research:** co-authoring a research paper with Dr. Malini A (in progress)
-- **CSI-VIT Chennai:** active member; volunteered at the Glytchh Hackathon and the OSPC Hostel Club Expo
-- **Model UN:** represented the United Kingdom at VITC Intra-MUN 2025
-- **Languages:** English, Hindi, Bengali; learning French
+### Have something ambitious in mind?
 
----
+I'm open to **internships, research collaborations, and hackathon teams**.
 
-## Technical Skills
+<a href="mailto:Ibhaanm29@gmail.com"><img src="https://img.shields.io/badge/BUILD%20SOMETHING%20TOGETHER-EMAIL%20ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ibhan" /></a>
 
-| Area | Technologies |
-|---|---|
-| **Languages** | Python, C++, C, JavaScript, SQL, HTML/CSS |
-| **ML & Data** | scikit-learn, ONNX, OpenCV, reservoir computing |
-| **Embedded & IoT** | ESP32, Arduino, MQTT, UART |
-| **Web & Mobile** | React Native, Firebase, GSAP |
-| **Tools & Design** | Git, Oracle Cloud, Figma |
+<br /><br />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,arduino,opencv,mysql,figma&theme=dark&perline=10" alt="Technology icons" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=110&section=footer" alt="" />
 
----
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanho-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanho-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9" height="165" alt="Top languages" />
-</p>
-
----
-
-## Contact
-
-Open to internships, research collaborations and hackathon teams.
-Reach me at [Ibhaanm29@gmail.com](mailto:Ibhaanm29@gmail.com).
+</div>
